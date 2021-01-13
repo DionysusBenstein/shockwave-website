@@ -1,4 +1,4 @@
-# shockwave-website
+# ShockWave website
 
 ShockWave Entertainment is a video games company headquartered in Kiev, Ukraine. The company was founded on March 30, 2018 by Artyom Gordienko and Denis Benstein. In the future, the company plans to develop for platforms such as Windows, Android, IOS, Xbox, PlayStation, etc.
 
