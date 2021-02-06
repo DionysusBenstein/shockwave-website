@@ -178,8 +178,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
     height: 100vh;
+    margin: 0 24px 0 24px;
 }
 
 .contacts {
@@ -223,6 +223,11 @@ body {
 }
 
 /* Form */
+
+.message-form {
+    display: inline-block;
+    width: 638px;
+}
 
 input[type="text"],
 input[type="email"] {
@@ -317,6 +322,11 @@ input[type="email"] {
 
     .contact__inner {
         flex-direction: column;
+        gap: 77px;
+    }
+
+    .contacts {
+        width: 500px;
     }
 }
 
