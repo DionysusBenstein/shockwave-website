@@ -330,7 +330,8 @@ input[type="email"] {
     }
 
     .contacts {
-        width: 500px;
+        width: 100%;
+        max-width: 500px;
     }
 
     .contact {
@@ -339,10 +340,14 @@ input[type="email"] {
     }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 750px) {
     .about__inner,
     .about__inner-reverse {
         flex-direction: column-reverse;
+    }
+
+    .about {
+        margin: 76px 0;
     }
 }
 
