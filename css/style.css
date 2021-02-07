@@ -179,7 +179,6 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 100vh;
-    margin: 0 24px 0 24px;
 }
 
 .contacts {
@@ -336,7 +335,7 @@ input[type="email"] {
 
     .contact {
         height: 1100px;
-        padding: 77px 77px;
+        padding: 77px 0;
     }
 }
 
